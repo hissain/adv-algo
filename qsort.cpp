@@ -33,8 +33,6 @@ void qsort(int data[], int s, int e){
 int main(){
 
     int data[5] = {2, 5, 10, 8, 3};
-    
     qsort(data, 0, 4);
-    
     return 0;
 }
